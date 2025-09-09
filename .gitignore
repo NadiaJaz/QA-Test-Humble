@@ -1,0 +1,4 @@
+# Ignorar archivos temporales de Word/Excel
+~.docx
+~.rtf
+~.xlsx
